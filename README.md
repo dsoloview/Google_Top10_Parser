@@ -5,3 +5,5 @@
 - Ссылка
 - Title
 - Description
+
+Пример в файле *Купить машину_Desktop.xlsx*
